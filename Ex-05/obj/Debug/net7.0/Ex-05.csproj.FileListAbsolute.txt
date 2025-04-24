@@ -1,0 +1,14 @@
+C:\Users\iago55093726\Desktop\lista-\Ex-05\bin\Debug\net7.0\Ex-05.exe
+C:\Users\iago55093726\Desktop\lista-\Ex-05\bin\Debug\net7.0\Ex-05.deps.json
+C:\Users\iago55093726\Desktop\lista-\Ex-05\bin\Debug\net7.0\Ex-05.runtimeconfig.json
+C:\Users\iago55093726\Desktop\lista-\Ex-05\bin\Debug\net7.0\Ex-05.dll
+C:\Users\iago55093726\Desktop\lista-\Ex-05\bin\Debug\net7.0\Ex-05.pdb
+C:\Users\iago55093726\Desktop\lista-\Ex-05\obj\Debug\net7.0\Ex-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago55093726\Desktop\lista-\Ex-05\obj\Debug\net7.0\Ex-05.AssemblyInfoInputs.cache
+C:\Users\iago55093726\Desktop\lista-\Ex-05\obj\Debug\net7.0\Ex-05.AssemblyInfo.cs
+C:\Users\iago55093726\Desktop\lista-\Ex-05\obj\Debug\net7.0\Ex-05.csproj.CoreCompileInputs.cache
+C:\Users\iago55093726\Desktop\lista-\Ex-05\obj\Debug\net7.0\Ex-05.dll
+C:\Users\iago55093726\Desktop\lista-\Ex-05\obj\Debug\net7.0\refint\Ex-05.dll
+C:\Users\iago55093726\Desktop\lista-\Ex-05\obj\Debug\net7.0\Ex-05.pdb
+C:\Users\iago55093726\Desktop\lista-\Ex-05\obj\Debug\net7.0\Ex-05.genruntimeconfig.cache
+C:\Users\iago55093726\Desktop\lista-\Ex-05\obj\Debug\net7.0\ref\Ex-05.dll
