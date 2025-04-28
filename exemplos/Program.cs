@@ -12,7 +12,7 @@
                 case 2:
                 Console.WriteLine("Valor digitado foi 2");
                 break;
-                case 3:
+                default:
                 Console.WriteLine("Valor não digitado.");
                 break;
         }
